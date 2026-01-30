@@ -1,0 +1,11 @@
+{
+  "BaseUrl": "https://xxxx.uazapi.com",
+  "EventType": "connection",
+  "instance": {
+    "name": "intanceTest",
+    "status": "connected"
+  },
+  "instanceName": "intanceTest",
+  "owner": "558185464605",
+  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+}

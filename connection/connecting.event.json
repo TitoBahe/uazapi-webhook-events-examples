@@ -1,0 +1,12 @@
+{
+  "BaseUrl": "https://xxxx.uazapi.com",
+  "EventType": "connection",
+  "instance": {
+    "name": "intanceTest",
+    "qrcode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAABlBMVEX///8AAABVwtN+AAAEtElEQVR42uyZMY4zIRaECxGQDRewmms4aKmv5JAMMkJfCakDXwPkCzAZAaJWMLZ3co872P3JPPqCHnivXhXg3/r/WoKk1+XxI62wF7LJqgrJeBCQID0K5B6V1glnexFdRqtKgjwKyNxDYZdxq0WwnS36Ihtcydz/EPA6nSQrRY4qeJHTxno0UNhNU758k9VCjLNwOBBIkOFa0mlVnkzyRhbTNm/x67A+DZAMV72c1rMt33m/hevXclqt/V207wFjKerccHbjG6q7dsOowu/2+zAgMukdRVvhtCZvLGJwKI9vPAAAVjjqLuPZoRhGe9H9JCs00/pXADayANuNhTmerRO5raqyLzIeA4i+RVeY23oevxqs++a9WcuOowAskKGgywiHoXKqQMyz6ObnnzgAMG1VV+ZRjSzY6lR7KI/8OKy3AdHl7i/EaVWEZlPhKpKJ1hLY4kFAjoAeOr+FUkw8w+l+WlVAX44CsMhRkstpqMAYrI6Ps1jE47DeB9bVXcEmoy1MMqqimeCCZl8PAkSXHNMjYWMRuZ2hsQDWgo+BcgCQ96h8MWmLTkPst1A021ahc9qOAtK2Bz8Ha4Duq2KBSRupl+Vno94HRp8VzTtJrbusuOgOOK9fc/PjAJZtZyn5vt+qBtZR/CLB+ZIfE+XzgMh7c4ULtur01yJvdfpXa3V/tv+7AMzOcAXTelYcYj6FdKtDzB8y+HFA5Aar0U/rGeULwxVr3nd65Pwo+48DME2yIN/jKIu0VYCj7J1enhv1eUBEWF0g21ZZzH7zwGJ2rwqWvwLMSEHF3HnzP97Ri3xvVr3c4ueBkXgUMYBavqfSfi2nUfbipbSfBrDIPVwL51DT0zYzmaZeCeV9YNgkddU4yWqhp4vQ/bRVVUSSRwFJkh5Jsv5EhTFWxt/4yryfBzKbK9OXOTIzKg9zjxb61f7vAliGKZ4WpaJjq3BMGHPl5Ug/Dowdt7qYsRG6D8HV3yOTWD1O6SCAOwPHuCb5ZdpZ+WkpVEk/PuoIoGN1RcPEs+I3G+zlm9xDwLLgj4AE6R0zd3rdIat1fcE6auPR/p8HgHV1BclE2NJnIYhuGPyz9Y4AllV60KTtVsdGKV4frZfM/keAiHBlOCM4CM7JxSTpXznrAADYAksy7WyHVYvA17xx4NPDHAAssuEnXCrMO6VLWST9T1w5CDBRej1Udav8EmQYKQnu1RfvA2NuDvvZJMOwKDd/+Vog6bGIdhQwFQbJMNpSRDy76/dM3PoZSD8P4EfTeW8q6ClBrps7vaV5XvW8DRjugUUMi0KIvbrrUPaqmJ528fMAZLMavLMOpd3jUNr7zqAXwaMAMeyDnjXOvqyqXkRuqwXT09N+HBDcoyPy/C6d41YvEPNpAM+0+D7QZOCwDI9LW15H5q1DYo4C5j2tn7M7TFfsCpmkVy9X/HlgvsIM4zYwkfeqruyyOZbcX1fibwIJMsyBcp5G+OahRx+OubkdBeRH60VV9VDcUL5HcZDM+6EAzL0N5zB9FEySwfP3Y9MBQJkOSo1Jv3GmJMcRS/8IGFZNFzaoypk3R8XtIbzuqw8A5itMyWm7scC0s/PTpof/KszHgX/rf2f9JwAA//+JmHTOxQDPgAAAAABJRU5ErkJggg==",
+    "status": "connecting"
+  },
+  "instanceName": "intanceTest",
+  "owner": "",
+  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+}
