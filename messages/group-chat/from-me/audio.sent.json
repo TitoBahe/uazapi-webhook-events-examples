@@ -56,30 +56,31 @@
     "wa_isGroup_member": true,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "987654321098765@lid",
+    "wa_lastMessageSender": "249666952265850@lid",
     "wa_lastMessageTextVote": "",
     "wa_lastMessageType": "AudioMessage",
-    "wa_lastMsgTimestamp": 1769800878000,
+    "wa_lastMsgTimestamp": 1770149584000,
     "wa_muteEndTime": 0,
     "wa_name": "Full Group Teste",
-    "wa_unreadCount": 0
+    "wa_unreadCount": 15
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "120363324913602723@g.us",
+    "chatlid": "",
     "content": {
-      "URL": "https://mmg.whatsapp.net/v/t62.7117-24/40751634_1572611687290144_2582834869970876345_n.enc?ccb=11-4&oh=01_Q5Aa3gGpYJ9Dn9D5ZztpQtI9uxOYPYVt6ajx8pvSxCcbkYlDAA&oe=69A48F94&_nc_sid=5e03e0&mms3=true",
+      "URL": "https://mmg.whatsapp.net/v/t62.7117-24/583422352_1614683719722907_7425051181842293989_n.enc?ccb=11-4&oh=01_Q5Aa3gG1tYI4EanSO-gyozOlai7eBxXDXBui77wIYWE4xUtUpw&oe=69A9E2BB&_nc_sid=5e03e0&mms3=true",
       "mimetype": "audio/ogg; codecs=opus",
-      "fileSHA256": "WUhAg6HoC0nlh2WCzdDz3IiMGsfwf6ZumuW50xR6H/Q=",
-      "fileLength": 6510,
-      "seconds": 3,
+      "fileSHA256": "1GmOjXy8toEJF3hTo8FZp8rK7tgU9dgT2q/KLnBEpSc=",
+      "fileLength": 4884,
+      "seconds": 2,
       "PTT": true,
-      "mediaKey": "SpXBEiwX0/qz215BeJgKwUK0jjw03IYGibxUSaZw2ls=",
-      "fileEncSHA256": "A2A63tdpp+myVl7ro03Z2yr4RuMtjkZq7hGAhxifxeY=",
-      "directPath": "/v/t62.7117-24/40751634_1572611687290144_2582834869970876345_n.enc?ccb=11-4&oh=01_Q5Aa3gGpYJ9Dn9D5ZztpQtI9uxOYPYVt6ajx8pvSxCcbkYlDAA&oe=69A48F94&_nc_sid=5e03e0",
-      "mediaKeyTimestamp": 1769800876,
+      "mediaKey": "4FqpdGNUsklNnbyEdOuS6/1MK47YwY1Q3HINA9gmjcg=",
+      "fileEncSHA256": "kV0b7GMhcM12D2E2QKhZ0Ny1naEVO4Wb+u5sy5kemmU=",
+      "directPath": "/v/t62.7117-24/583422352_1614683719722907_7425051181842293989_n.enc?ccb=11-4&oh=01_Q5Aa3gG1tYI4EanSO-gyozOlai7eBxXDXBui77wIYWE4xUtUpw&oe=69A9E2BB&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": 1770149584,
       "contextInfo": {
         "expiration": 7776000,
         "disappearingMode": {
@@ -87,24 +88,24 @@
           "trigger": 0
         }
       },
-      "waveform": "AAAOFxwhIyQmJDJIS09LTkdCS0ZESk1MSUI7Ojg/R0hHOTgxMj5BQz8/PDk5OD9BRUZCPTo5MyckQEBBOTQ2PA=="
+      "waveform": "AAACCAUABQcHBwcHFC9EU1NPSUlLVFhYUExPTUpEQkJDQjkzLyQjQkxKRz4rJiclJCYzQkJAOzMoFxQdLTs+QA=="
     },
     "convertOptions": "",
     "edited": "",
     "fromMe": true,
     "groupName": "Full Group Teste",
-    "id": "558185464605:AC77A52BB9A41C498C4C4E11FAA2E8FF",
+    "id": "558185464605:ACCD9355F68FA81E6961E9495030C40C",
     "isGroup": true,
     "mediaType": "ptt",
-    "messageTimestamp": 1769800878000,
+    "messageTimestamp": 1770149584000,
     "messageType": "AudioMessage",
-    "messageid": "AC77A52BB9A41C498C4C4E11FAA2E8FF",
+    "messageid": "ACCD9355F68FA81E6961E9495030C40C",
     "owner": "558185464605",
     "quoted": "",
     "reaction": "",
-    "sender": "987654321098765@lid",
+    "sender": "249666952265850@lid",
     "senderName": "TitoTest",
-    "sender_lid": "987654321098765@lid",
+    "sender_lid": "249666952265850@lid",
     "sender_pn": "558185464605@s.whatsapp.net",
     "source": "android",
     "status": "",
@@ -116,5 +117,5 @@
     "wasSentByApi": false
   },
   "owner": "558185464605",
-  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" 
 }

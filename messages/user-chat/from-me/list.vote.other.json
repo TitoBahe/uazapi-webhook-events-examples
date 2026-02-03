@@ -57,32 +57,68 @@
     "wa_isPinned": false,
     "wa_label": [],
     "wa_lastMessageSender": "138401042923712@lid",
-    "wa_lastMessageTextVote": "",
-    "wa_lastMessageType": "ImageMessage",
-    "wa_lastMsgTimestamp": 1770146426000,
+    "wa_lastMessageTextVote": "Fones",
+    "wa_lastMessageType": "ListResponseMessage",
+    "wa_lastMsgTimestamp": 1770147012000,
     "wa_muteEndTime": 0,
     "wa_name": "Tito Bahé",
-    "wa_unreadCount": 11
+    "wa_unreadCount": 18
   },
   "chatSource": "updated",
   "instanceName": "eKoB39",
   "message": {
-    "buttonOrListid": "",
+    "buttonOrListid": "fones",
     "chatid": "40723973035@s.whatsapp.net",
     "chatlid": "138401042923712@lid",
     "content": {
-      "URL": "https://mmg.whatsapp.net/v/t62.7118-24/564151690_1643653926990683_3752429550454594924_n.enc?ccb=11-4&oh=01_Q5Aa3gFx2XcG7G2r-UWIQY5ZS-8pyO-NR6cJqtnots0vsmY6tg&oe=69A9D30D&_nc_sid=5e03e0&mms3=true",
-      "mimetype": "image/jpeg",
-      "fileSHA256": "i0AJl+bQidaVHOe6UwmnOKEFtk5CTukkY0Dznh/kWhs=",
-      "fileLength": 162894,
-      "height": 1600,
-      "width": 900,
-      "mediaKey": "nu7ttjwnlb5BW2cylP7MgutxXOCbOfHPnNnHtZg+cLQ=",
-      "fileEncSHA256": "D7X9nDQ2Vh/NI6v/Dso8J39HHA5TvGtXtlufLJPDdVk=",
-      "directPath": "/v/t62.7118-24/564151690_1643653926990683_3752429550454594924_n.enc?ccb=11-4&oh=01_Q5Aa3gFx2XcG7G2r-UWIQY5ZS-8pyO-NR6cJqtnots0vsmY6tg&oe=69A9D30D&_nc_sid=5e03e0",
-      "mediaKeyTimestamp": 1770117882,
-      "JPEGThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIAEgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwQBBv/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAACmWozx6e9T5GqkrRbk2igMRLx7VVbTZcleC+bDLN69C2WduReOFLZlLTOEzoLddyoehI6pGqKib9NpUsqymEAlXnyhnjfEeI1A3SsEmWUKWeASS6DJAS//EABoRAAMBAQEBAAAAAAAAAAAAAAABERACIEH/2gAIAQIBAT8AsGUpSY0TpMq++Xz4uLHlP//EAB0RAAIBBAMAAAAAAAAAAAAAAAABEAIRITESMEH/2gAIAQMBAT8AavspwcS0OE0YY6H5OxMT6//EACkQAAEEAgEDAwMFAAAAAAAAAAEAAgMRBCFREjFBEBMiBRRhIzJxgaH/2gAIAQEAAT8AdC142vsyDp2k+Axi7spoqNm9lVS6gDSOXGX9BdRRNjS2sTKbO3h3Ho+iKKcWloFdlPL0nTuyOUSN0VF0SuBLASvtTIWlr6HkKPFFC90o3uY4OaaIWPmCZlHTx/qbkAPLXiuFKXDynMMxAulHiNuru+6hxWMHxQA86PIWP7h7kEcoBMaRTmmisWE5cZ6hTh55Tcd2PqdvVHzwn/TWSt64H3+E/EyIDfSf5CblObpwpHLPcbWJm77/ANLGwJZz8WGuVi/R2sp0ps8BMiZGKaAAnMDmkOFgqWOTCk9yKyzy1Y2VFkt0d+QVm4DZAXxinccqWN0bjqiPCZJ0nqCa0M/aAB6dhz6OAcKPZZWJJjye9Br8LE+pNlb0v+Lws5scuwPlyp/030sPJbPGCO/HCv1utqaVvSQVlwXIXR6UL5i1zXjY8qaPZvup2nCyRIwH23dwoZBKwOB9HPAU2RWgnyF3cq7WwdCwpo+oWFkRtmiLHDv2WHkHGnMLzq9J8wqwpZiTQTjyigPJV3+AmRl5X//+AAMA/9k=",
+      "title": "Fones",
+      "listType": 1,
+      "singleSelectReply": {
+        "selectedRowID": "fones"
+      },
       "contextInfo": {
+        "stanzaID": "3EB00EB51811DEDC4195E4",
+        "participant": "249666952265850@lid",
+        "quotedMessage": {
+          "listMessage": {
+            "description": "Escolha uma opção:",
+            "buttonText": "Ver opções",
+            "listType": 1,
+            "sections": [
+              {
+                "title": "Eletrônicos",
+                "rows": [
+                  {
+                    "title": "Smartphones",
+                    "description": "Últimos lançamentos",
+                    "rowID": "phones"
+                  },
+                  {
+                    "title": "Notebooks",
+                    "description": "Modelos 2024",
+                    "rowID": "notes"
+                  }
+                ]
+              },
+              {
+                "title": "Acessórios",
+                "rows": [
+                  {
+                    "title": "Fones",
+                    "description": "Bluetooth e com fio",
+                    "rowID": "fones"
+                  },
+                  {
+                    "title": "Capas",
+                    "description": "Proteção para seu device",
+                    "rowID": "cases"
+                  }
+                ]
+              }
+            ],
+            "footerText": "Menu de serviços"
+          }
+        },
         "expiration": 0,
         "ephemeralSettingTimestamp": 1739999266,
         "disappearingMode": {
@@ -90,21 +126,22 @@
           "trigger": 0,
           "initiatedByMe": false
         },
-        "pairedMediaType": 0
-      }
+        "quotedType": 0
+      },
+      "description": "Bluetooth e com fio"
     },
     "convertOptions": "",
     "edited": "",
     "fromMe": false,
     "groupName": "Unknown",
-    "id": "558185464605:AC3D4FE37D20ED8957FACCDAD9368A4A",
+    "id": "558185464605:AC733E28316A85E2435B1A9D4B6C39F7",
     "isGroup": false,
-    "mediaType": "image",
-    "messageTimestamp": 1770146426000,
-    "messageType": "ImageMessage",
-    "messageid": "AC3D4FE37D20ED8957FACCDAD9368A4A",
+    "mediaType": "list_response",
+    "messageTimestamp": 1770147012000,
+    "messageType": "ListResponseMessage",
+    "messageid": "AC733E28316A85E2435B1A9D4B6C39F7",
     "owner": "558185464605",
-    "quoted": "",
+    "quoted": "3EB00EB51811DEDC4195E4",
     "reaction": "",
     "sender": "138401042923712@lid",
     "senderName": "Tito Bahé",
@@ -116,7 +153,7 @@
     "track_id": "",
     "track_source": "",
     "type": "media",
-    "vote": "",
+    "vote": "Fones",
     "wasSentByApi": false
   },
   "owner": "558185464605",

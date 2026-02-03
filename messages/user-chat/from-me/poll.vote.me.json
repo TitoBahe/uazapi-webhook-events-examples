@@ -44,7 +44,7 @@
     "phone": "+40 723 973 035",
     "wa_archived": false,
     "wa_chatid": "40723973035@s.whatsapp.net",
-    "wa_chatlid": "123456789012345@lid",
+    "wa_chatlid": "138401042923712@lid",
     "wa_contactName": "",
     "wa_ephemeralExpiration": 0,
     "wa_fastid": "558185464605:40723973035",
@@ -56,47 +56,48 @@
     "wa_isGroup_member": false,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "987654321098765@lid",
-    "wa_lastMessageTextVote": "2",
+    "wa_lastMessageSender": "249666952265850@lid",
+    "wa_lastMessageTextVote": "Sol",
     "wa_lastMessageType": "PollUpdateMessage",
-    "wa_lastMsgTimestamp": 1769801808000,
+    "wa_lastMsgTimestamp": 1770146857000,
     "wa_muteEndTime": 0,
     "wa_name": "Tito Bahé",
-    "wa_unreadCount": 15
+    "wa_unreadCount": 16
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "40723973035@s.whatsapp.net",
+    "chatlid": "138401042923712@lid",
     "content": {
       "pollCreationMessageKey": {
-        "remoteJID": "123456789012345@lid",
+        "remoteJID": "138401042923712@lid",
         "fromMe": true,
-        "ID": "AC2A471DE63EA649549EFE2BB7A7624E"
+        "ID": "ACD77D406C13602A7D0C93F11113240B"
       },
       "vote": {
-        "encPayload": "V0mqp8xkEOvP2DrTNerUB+i7qdoo5IfuwUNhFt0Y+/RuQbLT870PDUjenKIFkU2Kruk=",
-        "encIV": "bdY84+50ror9X9vS"
+        "encPayload": "PYbgomKKhGqzGjdPHv6RE3Rc8EvTFmEMQToMybHyltuv2QB4qtCIc3bbXz3RyfpWCkI=",
+        "encIV": "Pkkl12vXdeigd+ov"
       },
-      "senderTimestampMS": 1769801808363
+      "senderTimestampMS": 1770146856917
     },
     "convertOptions": "",
     "edited": "",
     "fromMe": true,
     "groupName": "Unknown",
-    "id": "558185464605:AC57457D9253C0240EB7F453B839D02D",
+    "id": "558185464605:ACB809986C9F67C614F8B4EA09185585",
     "isGroup": false,
     "mediaType": "",
-    "messageTimestamp": 1769801808000,
+    "messageTimestamp": 1770146857000,
     "messageType": "PollUpdateMessage",
-    "messageid": "AC57457D9253C0240EB7F453B839D02D",
+    "messageid": "ACB809986C9F67C614F8B4EA09185585",
     "owner": "558185464605",
-    "quoted": "AC2A471DE63EA649549EFE2BB7A7624E",
+    "quoted": "ACD77D406C13602A7D0C93F11113240B",
     "reaction": "",
-    "sender": "987654321098765@lid",
+    "sender": "249666952265850@lid",
     "senderName": "TitoTest",
-    "sender_lid": "987654321098765@lid",
+    "sender_lid": "249666952265850@lid",
     "sender_pn": "558185464605@s.whatsapp.net",
     "source": "android",
     "status": "",
@@ -104,7 +105,7 @@
     "track_id": "",
     "track_source": "",
     "type": "poll",
-    "vote": "2",
+    "vote": "Sol",
     "wasSentByApi": false
   },
   "owner": "558185464605",

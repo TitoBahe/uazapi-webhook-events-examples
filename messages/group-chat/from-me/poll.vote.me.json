@@ -56,47 +56,48 @@
     "wa_isGroup_member": true,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "987654321098765@lid",
-    "wa_lastMessageTextVote": "2",
+    "wa_lastMessageSender": "249666952265850@lid",
+    "wa_lastMessageTextVote": "Gahsu",
     "wa_lastMessageType": "PollUpdateMessage",
-    "wa_lastMsgTimestamp": 1769801587000,
+    "wa_lastMsgTimestamp": 1770148284000,
     "wa_muteEndTime": 0,
     "wa_name": "Full Group Teste",
     "wa_unreadCount": 14
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "120363324913602723@g.us",
+    "chatlid": "",
     "content": {
       "pollCreationMessageKey": {
         "remoteJID": "120363324913602723@g.us",
         "fromMe": true,
-        "ID": "AC829A2CDEB7D3AB643DD1677C7C0A35"
+        "ID": "AC30453549A03DC62B238391F54336BE"
       },
       "vote": {
-        "encPayload": "WodKmkJu3F2FfnmcqZDRPX1LEkClS2nszu8DOAEO6ySrGJ8gdnqgkseOPx4bp6/5ptA=",
-        "encIV": "/BcvdEUwp6WQCtaC"
+        "encPayload": "6VBfFjXD9LkWs+XnLKn0kt9jHMnxx2+gk09xAVD93SnD6gvWLxv84o151Xbyjf/AX/A=",
+        "encIV": "FFS4GZPybJIxQ1M3"
       },
-      "senderTimestampMS": 1769801587197
+      "senderTimestampMS": 1770148284776
     },
     "convertOptions": "",
     "edited": "",
     "fromMe": true,
     "groupName": "Full Group Teste",
-    "id": "558185464605:AC2B9FC57C4AE51E8406FC3FDCE8C7EE",
+    "id": "558185464605:AC6E5D61B329B9B8AC11A79CD61CD55C",
     "isGroup": true,
     "mediaType": "",
-    "messageTimestamp": 1769801587000,
+    "messageTimestamp": 1770148284000,
     "messageType": "PollUpdateMessage",
-    "messageid": "AC2B9FC57C4AE51E8406FC3FDCE8C7EE",
+    "messageid": "AC6E5D61B329B9B8AC11A79CD61CD55C",
     "owner": "558185464605",
-    "quoted": "AC829A2CDEB7D3AB643DD1677C7C0A35",
+    "quoted": "AC30453549A03DC62B238391F54336BE",
     "reaction": "",
-    "sender": "987654321098765@lid",
+    "sender": "249666952265850@lid",
     "senderName": "TitoTest",
-    "sender_lid": "987654321098765@lid",
+    "sender_lid": "249666952265850@lid",
     "sender_pn": "558185464605@s.whatsapp.net",
     "source": "android",
     "status": "",
@@ -104,7 +105,7 @@
     "track_id": "",
     "track_source": "",
     "type": "poll",
-    "vote": "2",
+    "vote": "Gahsu",
     "wasSentByApi": false
   },
   "owner": "558185464605",

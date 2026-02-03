@@ -44,7 +44,7 @@
     "phone": "+40 723 973 035",
     "wa_archived": false,
     "wa_chatid": "40723973035@s.whatsapp.net",
-    "wa_chatlid": "123456789012345@lid",
+    "wa_chatlid": "138401042923712@lid",
     "wa_contactName": "",
     "wa_ephemeralExpiration": 0,
     "wa_fastid": "558185464605:40723973035",
@@ -56,38 +56,39 @@
     "wa_isGroup_member": false,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "123456789012345@lid",
-    "wa_lastMessageTextVote": "S3idj",
+    "wa_lastMessageSender": "138401042923712@lid",
+    "wa_lastMessageTextVote": "Seibla",
     "wa_lastMessageType": "PollCreationMessageV3",
-    "wa_lastMsgTimestamp": 1769799224000,
+    "wa_lastMsgTimestamp": 1770146292000,
     "wa_muteEndTime": 0,
     "wa_name": "Tito Bahé",
-    "wa_unreadCount": 6
+    "wa_unreadCount": 8
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "40723973035@s.whatsapp.net",
+    "chatlid": "138401042923712@lid",
     "content": {
       "messageContextInfo": {
         "deviceListMetadata": {
           "senderKeyHash": "eA7SvBjAfU5rUg==",
           "senderTimestamp": 1769164828,
-          "recipientKeyHash": "qOCKs7zcKdPbvA==",
-          "recipientTimestamp": 1769723129
+          "recipientKeyHash": "qo7VJ4VrOe/HKA==",
+          "recipientTimestamp": 1770057113
         },
         "deviceListMetadataVersion": 2,
-        "messageSecret": "tVaeRBI6h8GevG27v56rqLghNC7ke1LH9qbLlJm5tU8="
+        "messageSecret": "1fnxnladCa2IHq0hGVEWUFpJS45Xio9YD27QNsJTBic="
       },
       "pollCreationMessageV3": {
-        "name": "S3idj",
+        "name": "Seibla",
         "options": [
           {
-            "optionName": "1"
+            "optionName": "Sol"
           },
           {
-            "optionName": "2"
+            "optionName": "Lua"
           }
         ],
         "selectableOptionsCount": 0,
@@ -102,26 +103,26 @@
         }
       }
     },
-    "convertOptions": "1|2",
+    "convertOptions": "Sol|Lua",
     "edited": "",
     "fromMe": false,
     "groupName": "Unknown",
-    "id": "558185464605:ACB82BF988EA279E605562FE0F1DF08C",
+    "id": "558185464605:AC80C0232690BC1ADD4D087D31ED59B3",
     "isGroup": false,
     "mediaType": "",
-    "messageTimestamp": 1769799224000,
+    "messageTimestamp": 1770146292000,
     "messageType": "PollCreationMessageV3",
-    "messageid": "ACB82BF988EA279E605562FE0F1DF08C",
+    "messageid": "AC80C0232690BC1ADD4D087D31ED59B3",
     "owner": "558185464605",
     "quoted": "",
     "reaction": "",
-    "sender": "123456789012345@lid",
+    "sender": "138401042923712@lid",
     "senderName": "Tito Bahé",
-    "sender_lid": "123456789012345@lid",
+    "sender_lid": "138401042923712@lid",
     "sender_pn": "40723973035@s.whatsapp.net",
     "source": "android",
     "status": "",
-    "text": "S3idj",
+    "text": "Seibla",
     "track_id": "",
     "track_source": "",
     "type": "poll",

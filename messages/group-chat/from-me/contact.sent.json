@@ -56,19 +56,20 @@
     "wa_isGroup_member": true,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "987654321098765@lid",
+    "wa_lastMessageSender": "249666952265850@lid",
     "wa_lastMessageTextVote": "TitoTest\nPhone (Celular): +55 81 8546-4605",
     "wa_lastMessageType": "ContactMessage",
-    "wa_lastMsgTimestamp": 1769800848000,
+    "wa_lastMsgTimestamp": 1770149563000,
     "wa_muteEndTime": 0,
     "wa_name": "Full Group Teste",
-    "wa_unreadCount": 0
+    "wa_unreadCount": 15
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "120363324913602723@g.us",
+    "chatlid": "",
     "content": {
       "displayName": "TitoTest",
       "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;TitoTest;;;\nFN:TitoTest\nitem1.TEL;waid=558185464605:+55 81 8546-4605\nitem1.X-ABLabel:Celular\nEND:VCARD",
@@ -84,18 +85,18 @@
     "edited": "",
     "fromMe": true,
     "groupName": "Full Group Teste",
-    "id": "558185464605:AC79B0E52A1083CA036BF1ECE8FAF858",
+    "id": "558185464605:AC8E2FB0876A744AA1DE66FFFE23F70B",
     "isGroup": true,
     "mediaType": "vcard",
-    "messageTimestamp": 1769800848000,
+    "messageTimestamp": 1770149563000,
     "messageType": "ContactMessage",
-    "messageid": "AC79B0E52A1083CA036BF1ECE8FAF858",
+    "messageid": "AC8E2FB0876A744AA1DE66FFFE23F70B",
     "owner": "558185464605",
     "quoted": "",
     "reaction": "",
-    "sender": "987654321098765@lid",
+    "sender": "249666952265850@lid",
     "senderName": "TitoTest",
-    "sender_lid": "987654321098765@lid",
+    "sender_lid": "249666952265850@lid",
     "sender_pn": "558185464605@s.whatsapp.net",
     "source": "android",
     "status": "",
@@ -107,5 +108,5 @@
     "wasSentByApi": false
   },
   "owner": "558185464605",
-  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" 
 }

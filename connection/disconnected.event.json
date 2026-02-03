@@ -1,0 +1,14 @@
+{
+    "BaseUrl": "https://xxxx.uazapi.com",
+    "EventType": "connection",
+    "instance": {
+      "lastDisconnect": "2026-02-02 17:46:57.567Z",
+      "lastDisconnectReason": "401: logged out from another device",
+      "name": "eKoB39",
+      "status": "disconnected"
+    },
+    "instanceName": "eKoB39",
+    "owner": "558185464605",
+    "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "type": "LoggedOut"
+}

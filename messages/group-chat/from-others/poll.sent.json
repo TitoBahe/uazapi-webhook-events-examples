@@ -56,31 +56,32 @@
     "wa_isGroup_member": true,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "123456789012345@lid",
-    "wa_lastMessageTextVote": "1gwgs",
+    "wa_lastMessageSender": "138401042923712@lid",
+    "wa_lastMessageTextVote": "Teste",
     "wa_lastMessageType": "PollCreationMessageV3",
-    "wa_lastMsgTimestamp": 1769801117000,
+    "wa_lastMsgTimestamp": 1770147377000,
     "wa_muteEndTime": 0,
     "wa_name": "Full Group Teste",
     "wa_unreadCount": 6
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "120363324913602723@g.us",
+    "chatlid": "",
     "content": {
       "messageContextInfo": {
-        "messageSecret": "c7nRO6IAcSt88w8aOHDn/nfAGjY9AnlHxs8N7uRJ4V8="
+        "messageSecret": "u7VWjsaVMX+gngaRGoAs3JZ8GoVnVaUb3rr2SNIFJqw="
       },
       "pollCreationMessageV3": {
-        "name": "1gwgs",
+        "name": "Teste",
         "options": [
           {
-            "optionName": "12"
+            "optionName": "Gajskd"
           },
           {
-            "optionName": "2"
+            "optionName": "Avsvsjx"
           }
         ],
         "selectableOptionsCount": 0,
@@ -93,26 +94,26 @@
         }
       }
     },
-    "convertOptions": "12|2",
+    "convertOptions": "Gajskd|Avsvsjx",
     "edited": "",
     "fromMe": false,
     "groupName": "Full Group Teste",
-    "id": "558185464605:AC58464952493CC08690DC6CD0A7D119",
+    "id": "558185464605:ACC68CE4E0813DDFA7CBC82E3E812AA5",
     "isGroup": true,
     "mediaType": "",
-    "messageTimestamp": 1769801117000,
+    "messageTimestamp": 1770147377000,
     "messageType": "PollCreationMessageV3",
-    "messageid": "AC58464952493CC08690DC6CD0A7D119",
+    "messageid": "ACC68CE4E0813DDFA7CBC82E3E812AA5",
     "owner": "558185464605",
     "quoted": "",
     "reaction": "",
-    "sender": "123456789012345@lid",
+    "sender": "138401042923712@lid",
     "senderName": "Tito Bahé",
-    "sender_lid": "123456789012345@lid",
+    "sender_lid": "138401042923712@lid",
     "sender_pn": "40723973035@s.whatsapp.net",
     "source": "android",
     "status": "",
-    "text": "1gwgs",
+    "text": "Teste",
     "track_id": "",
     "track_source": "",
     "type": "poll",

@@ -56,31 +56,32 @@
     "wa_isGroup_member": true,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "123456789012345@lid",
+    "wa_lastMessageSender": "138401042923712@lid",
     "wa_lastMessageTextVote": "",
     "wa_lastMessageType": "ImageMessage",
-    "wa_lastMsgTimestamp": 1769801181000,
+    "wa_lastMsgTimestamp": 1770147474000,
     "wa_muteEndTime": 0,
     "wa_name": "Full Group Teste",
-    "wa_unreadCount": 8
+    "wa_unreadCount": 9
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "120363324913602723@g.us",
+    "chatlid": "",
     "content": {
-      "URL": "https://mmg.whatsapp.net/o1/v/t24/f2/m235/AQN7naTFsHZ3mhq7SwBfgsTknyvww7WkvDVG5CZaeW9uxRhItrdSFElf2eUh7LLTAFimB9L9CdUzgkvvG2TSNHZERCI8UAN3tFYjcVTeCg?ccb=9-4&oh=01_Q5Aa3gHO0axW2y_gwVe9MtcXs8XIDzBfTBpm0aH_1_Z4cbfqMQ&oe=69A477C8&_nc_sid=e6ed6c&mms3=true",
+      "URL": "https://mmg.whatsapp.net/v/t62.7118-24/583843324_1622980718886972_6315872775378217583_n.enc?ccb=11-4&oh=01_Q5Aa3gGNFTQeUl1qAPnHuSKw7X17KikulVMmGFBVZtmKx5q0gg&oe=69A9CA03&_nc_sid=5e03e0&mms3=true",
       "mimetype": "image/jpeg",
-      "fileSHA256": "8dCB91IBiP9yLX8c8dhZGDyy+KgQvY+IuYDlBsoC9W4=",
-      "fileLength": 98278,
-      "height": 1600,
-      "width": 738,
-      "mediaKey": "70GFjpuxjqmdWO9ZbeqYEWUDwPa9ZHyOTXilMV0OxZc=",
-      "fileEncSHA256": "+2lc2zMH35/BSHnI+byuUdgWdezyeXgmnQ+7kK1RRt8=",
-      "directPath": "/o1/v/t24/f2/m235/AQN7naTFsHZ3mhq7SwBfgsTknyvww7WkvDVG5CZaeW9uxRhItrdSFElf2eUh7LLTAFimB9L9CdUzgkvvG2TSNHZERCI8UAN3tFYjcVTeCg?ccb=9-4&oh=01_Q5Aa3gHO0axW2y_gwVe9MtcXs8XIDzBfTBpm0aH_1_Z4cbfqMQ&oe=69A477C8&_nc_sid=e6ed6c",
-      "mediaKeyTimestamp": 1769794449,
-      "JPEGThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIAEgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwUBBv/EABkBAAMBAQEAAAAAAAAAAAAAAAEEBQACA//aAAwDAQACEAMQAAAAr1sdJvw9KhkdU94ytYARlq8JTJFdqSjUlEs96qxPuyaDp2mJN7ZJwq0ZqNOLTsu5pFTFmYA99Dhudc9ApV5NrNrTDA9B1PnzDU1TtC6NxFBIo17bgWmdcBE4mSHpxssBhSBSqf/EABwRAAICAwEBAAAAAAAAAAAAAAABAjEEESEQQf/aAAgBAgEBPwDJtefTRGkZKolpLonw0RpGS6ONd8a4RpGV8G9HGhsi+GT8Jka8VH//xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRECExA//aAAgBAwEBPwDxVJ4oQo6IqhK2ViMdDWGxdIrSJCVnMRekSIEu4jxH/8QAKRAAAgIBAwMEAgIDAAAAAAAAAQIAAxEEEiETIjFBUWFxBTMUMhUjgf/aAAgBAQABPwCs7bFPsYNegHgT/I1/E/J30317hgMIVBOcyohX2jnMKXFyqiKlm3aXxnyIowoEY4UmNeQeWMWxnyAefSLTbZnPiLpTsznmaXTMrhiBxG0oawvnz6QaJN248xxtcgekYZUidBWO3HcOfuDTWu/aMCU0itcWOSfYTr1VEKy4X3mn1dduqFaAj5MCAcwjiXftb7h8RKFXvZgPuX6xQ3Srwc+olBwm9zj4HmPsa0gEt68zSA82DaCvgkQa7DBbRjPtBtZchsiXftb7i8sBNbTqOtsXcwPiUfjzURZa3cPQS/TuwO1woPM21VruIJPq012qSuqtaT5HM6hL5Jmix/GXDZ4l37G+4v8AYR3wOBzNpJyZr9T0z0wM+86zEbecfMwztjzKqBnvmlL1HCE49pZnec+Yv9hAIRgZmoJa5z55gODgzRNhzwPEGF/7KRtORH5YwDuEEzwZpNBSil3UMzHPM/M0LTrOwYBGZTZscGVoGAI9Yq7TGHJmOYrAfZgGSB7zwoE/Pj/ZW3xBNIpWlQeZjJjDuM///gADAP/Z",
+      "fileSHA256": "H72L8pjky1IU7v2WKcd2PRfpMmqyis2wybBykNA1ckY=",
+      "fileLength": 125330,
+      "height": 1920,
+      "width": 1080,
+      "mediaKey": "Kk13x4+3vYnryBKfUUeZ9BQdjyJJ8ljQzaga4ZD90dM=",
+      "fileEncSHA256": "KIP+jvQGZimKRrSdGpzo3iP7hIOYPnXNWlbyFaTmx54=",
+      "directPath": "/v/t62.7118-24/583843324_1622980718886972_6315872775378217583_n.enc?ccb=11-4&oh=01_Q5Aa3gGNFTQeUl1qAPnHuSKw7X17KikulVMmGFBVZtmKx5q0gg&oe=69A9CA03&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": 1770076629,
+      "JPEGThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAuAAADAQEBAAAAAAAAAAAAAAACAwQAAQUBAQEBAQAAAAAAAAAAAAAAAAECAAP/2gAMAwEAAhADEAAAAKyLpgU6ZFbmstPy6o6PmehgcGrSUeWw3szcWJ5GrRkGgo4DJtGvxX//xAAlEAACAwACAAQHAAAAAAAAAAAAAQIDERIhBBATMSIjQUJRUnH/2gAIAQEAAT8AUTDCefk0S8mclOUv4Yc3+rFLSbxMpb4TOTI2Tk85EeUJw2W6Wv4JFbSoNO0UyTsh32Xv5ciLytHIcpP3ZTPhYpHiL4uvpmv04nM1G9FeT9yymX2s9Kw3yqeTI2Sfe/Uw/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQAREBL/2gAIAQIBAT8AjmMcWO465em//8QAHBEAAgEFAQAAAAAAAAAAAAAAAREAAgMQEiAx/9oACAEDAQE/AMmq34G+2EHNRP/Z",
       "contextInfo": {
         "expiration": 7776000,
         "disappearingMode": {
@@ -88,24 +89,32 @@
           "trigger": 0
         },
         "pairedMediaType": 0
-      }
+      },
+      "scansSidecar": "Df97Ep8f1wjVyFBA5i3CzulpHXXDDbEKe0WgPMNoXxA12+ZQ5xD6UA==",
+      "scanLengths": [
+        15309,
+        43563,
+        21758,
+        44700
+      ],
+      "midQualityFileSHA256": "GtOGi4QX0JO/3T8W3BRzLiDDdu7ZFJ57xWH8tVainbo="
     },
     "convertOptions": "",
     "edited": "",
     "fromMe": false,
     "groupName": "Full Group Teste",
-    "id": "558185464605:ACB6DD0994F78A6FA4EA508B1ADD89CD",
+    "id": "558185464605:AC290EF75336247CBAE610FFE1C4E693",
     "isGroup": true,
     "mediaType": "image",
-    "messageTimestamp": 1769801181000,
+    "messageTimestamp": 1770147474000,
     "messageType": "ImageMessage",
-    "messageid": "ACB6DD0994F78A6FA4EA508B1ADD89CD",
+    "messageid": "AC290EF75336247CBAE610FFE1C4E693",
     "owner": "558185464605",
     "quoted": "",
     "reaction": "",
-    "sender": "123456789012345@lid",
+    "sender": "138401042923712@lid",
     "senderName": "Tito Bahé",
-    "sender_lid": "123456789012345@lid",
+    "sender_lid": "138401042923712@lid",
     "sender_pn": "40723973035@s.whatsapp.net",
     "source": "android",
     "status": "",
@@ -117,5 +126,5 @@
     "wasSentByApi": false
   },
   "owner": "558185464605",
-  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" 
 }

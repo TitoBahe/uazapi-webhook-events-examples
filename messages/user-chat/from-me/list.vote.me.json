@@ -57,57 +57,91 @@
     "wa_isPinned": false,
     "wa_label": [],
     "wa_lastMessageSender": "249666952265850@lid",
-    "wa_lastMessageTextVote": "",
-    "wa_lastMessageType": "StickerMessage",
-    "wa_lastMsgTimestamp": 1770146815000,
+    "wa_lastMessageTextVote": "Smartphones",
+    "wa_lastMessageType": "ListResponseMessage",
+    "wa_lastMsgTimestamp": 1770146966000,
     "wa_muteEndTime": 0,
     "wa_name": "Tito Bahé",
-    "wa_unreadCount": 16
+    "wa_unreadCount": 17
   },
   "chatSource": "updated",
   "instanceName": "eKoB39",
   "message": {
-    "buttonOrListid": "",
+    "buttonOrListid": "phones",
     "chatid": "40723973035@s.whatsapp.net",
     "chatlid": "138401042923712@lid",
     "content": {
-      "URL": "https://mmg.whatsapp.net/v/t62.15575-24/578957375_1259984899322102_139154634615749022_n.enc?ccb=11-4&oh=01_Q5Aa3gG-Hfuyepft1fORGVeJPqp9z375mxgIR-ilFOIH2Ucijg&oe=69A9AF0E&_nc_sid=5e03e0&mms3=true",
-      "fileSHA256": "dItyisSh/GNmWzjwtWneNF+g6XF/RhxJGeCL/nDJgZM=",
-      "fileEncSHA256": "9m13Qz6mF6Gde7ITqRds8KloQbFznWWkLJc8Qoi9sEo=",
-      "mediaKey": "gGOorvdNoR3bo0qdVYLDRMCZDzNITWh7sOElgWffgTo=",
-      "mimetype": "image/webp",
-      "height": 512,
-      "width": 512,
-      "directPath": "/v/t62.15575-24/578957375_1259984899322102_139154634615749022_n.enc?ccb=11-4&oh=01_Q5Aa3gG-Hfuyepft1fORGVeJPqp9z375mxgIR-ilFOIH2Ucijg&oe=69A9AF0E&_nc_sid=5e03e0",
-      "fileLength": 8126,
-      "mediaKeyTimestamp": 1770146782,
-      "isAnimated": false,
+      "title": "Smartphones",
+      "listType": 1,
+      "singleSelectReply": {
+        "selectedRowID": "phones"
+      },
       "contextInfo": {
+        "stanzaID": "3EB0F375CACD228EC21AC8",
+        "participant": "558185464605@s.whatsapp.net",
+        "quotedMessage": {
+          "listMessage": {
+            "description": "Escolha uma opção:",
+            "buttonText": "Ver opções",
+            "listType": 1,
+            "sections": [
+              {
+                "title": "Eletrônicos",
+                "rows": [
+                  {
+                    "title": "Smartphones",
+                    "description": "Últimos lançamentos",
+                    "rowID": "phones"
+                  },
+                  {
+                    "title": "Notebooks",
+                    "description": "Modelos 2024",
+                    "rowID": "notes"
+                  }
+                ]
+              },
+              {
+                "title": "Acessórios",
+                "rows": [
+                  {
+                    "title": "Fones",
+                    "description": "Bluetooth e com fio",
+                    "rowID": "fones"
+                  },
+                  {
+                    "title": "Capas",
+                    "description": "Proteção para seu device",
+                    "rowID": "cases"
+                  }
+                ]
+              }
+            ],
+            "footerText": "Menu de serviços"
+          }
+        },
         "expiration": 0,
         "ephemeralSettingTimestamp": 1739999264,
         "disappearingMode": {
           "initiator": 0,
           "trigger": 0,
           "initiatedByMe": false
-        }
+        },
+        "quotedType": 0
       },
-      "stickerSentTS": 1770146814448,
-      "isAvatar": false,
-      "isAiSticker": false,
-      "isLottie": false
+      "description": "Últimos lançamentos"
     },
     "convertOptions": "",
     "edited": "",
     "fromMe": true,
     "groupName": "Unknown",
-    "id": "558185464605:AC25E2456170F8D43437F6BC81ACF3C4",
+    "id": "558185464605:ACC3FD5E7AFA7301CDF1220DFFA49B4C",
     "isGroup": false,
-    "mediaType": "1p_sticker",
-    "messageTimestamp": 1770146815000,
-    "messageType": "StickerMessage",
-    "messageid": "AC25E2456170F8D43437F6BC81ACF3C4",
+    "mediaType": "list_response",
+    "messageTimestamp": 1770146966000,
+    "messageType": "ListResponseMessage",
+    "messageid": "ACC3FD5E7AFA7301CDF1220DFFA49B4C",
     "owner": "558185464605",
-    "quoted": "",
+    "quoted": "3EB0F375CACD228EC21AC8",
     "reaction": "",
     "sender": "249666952265850@lid",
     "senderName": "TitoTest",
@@ -119,7 +153,7 @@
     "track_id": "",
     "track_source": "",
     "type": "media",
-    "vote": "",
+    "vote": "Smartphones",
     "wasSentByApi": false
   },
   "owner": "558185464605",

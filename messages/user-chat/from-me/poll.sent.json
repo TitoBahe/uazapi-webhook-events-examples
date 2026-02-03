@@ -44,7 +44,7 @@
     "phone": "+40 723 973 035",
     "wa_archived": false,
     "wa_chatid": "40723973035@s.whatsapp.net",
-    "wa_chatlid": "987654321098765@lid",
+    "wa_chatlid": "138401042923712@lid",
     "wa_contactName": "",
     "wa_ephemeralExpiration": 0,
     "wa_fastid": "558185464605:40723973035",
@@ -56,38 +56,39 @@
     "wa_isGroup_member": false,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "987654321098765@lid",
-    "wa_lastMessageTextVote": "Oi",
+    "wa_lastMessageSender": "249666952265850@lid",
+    "wa_lastMessageTextVote": "Sei la",
     "wa_lastMessageType": "PollCreationMessageV3",
-    "wa_lastMsgTimestamp": 1769797928000,
+    "wa_lastMsgTimestamp": 1770146838000,
     "wa_muteEndTime": 0,
     "wa_name": "Tito Bahé",
-    "wa_unreadCount": 0
+    "wa_unreadCount": 16
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "40723973035@s.whatsapp.net",
+    "chatlid": "138401042923712@lid",
     "content": {
       "messageContextInfo": {
         "deviceListMetadata": {
-          "senderKeyHash": "qOCKs7zcKdPbvA==",
-          "senderTimestamp": 1769723129,
+          "senderKeyHash": "qo7VJ4VrOe/HKA==",
+          "senderTimestamp": 1770057113,
           "recipientKeyHash": "eA7SvBjAfU5rUg==",
           "recipientTimestamp": 1769164828
         },
         "deviceListMetadataVersion": 2,
-        "messageSecret": "yt2HlRMQ71vMWayLlyPLadMvVTKwBRCRjnegDrkIxEI="
+        "messageSecret": "8kSQESpZu7dJ/2IyefO2prTyoG7qZoQVkoOpfIcHSRg="
       },
       "pollCreationMessageV3": {
-        "name": "Oi",
+        "name": "Sei la",
         "options": [
           {
-            "optionName": "1"
+            "optionName": "Sol"
           },
           {
-            "optionName": "2"
+            "optionName": "Lua"
           }
         ],
         "selectableOptionsCount": 0,
@@ -102,26 +103,26 @@
         }
       }
     },
-    "convertOptions": "1|2",
+    "convertOptions": "Sol|Lua",
     "edited": "",
     "fromMe": true,
     "groupName": "Unknown",
-    "id": "558185464605:AC2A471DE63EA649549EFE2BB7A7624E",
+    "id": "558185464605:ACD77D406C13602A7D0C93F11113240B",
     "isGroup": false,
     "mediaType": "",
-    "messageTimestamp": 1769797928000,
+    "messageTimestamp": 1770146838000,
     "messageType": "PollCreationMessageV3",
-    "messageid": "AC2A471DE63EA649549EFE2BB7A7624E",
+    "messageid": "ACD77D406C13602A7D0C93F11113240B",
     "owner": "558185464605",
     "quoted": "",
     "reaction": "",
-    "sender": "987654321098765@lid",
+    "sender": "249666952265850@lid",
     "senderName": "TitoTest",
-    "sender_lid": "987654321098765@lid",
+    "sender_lid": "249666952265850@lid",
     "sender_pn": "558185464605@s.whatsapp.net",
     "source": "android",
     "status": "",
-    "text": "Oi",
+    "text": "Sei la",
     "track_id": "",
     "track_source": "",
     "type": "poll",

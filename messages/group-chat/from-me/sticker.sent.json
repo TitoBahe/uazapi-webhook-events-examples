@@ -56,30 +56,31 @@
     "wa_isGroup_member": true,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "987654321098765@lid",
+    "wa_lastMessageSender": "249666952265850@lid",
     "wa_lastMessageTextVote": "",
     "wa_lastMessageType": "StickerMessage",
-    "wa_lastMsgTimestamp": 1769800382000,
+    "wa_lastMsgTimestamp": 1770148201000,
     "wa_muteEndTime": 0,
     "wa_name": "Full Group Teste",
-    "wa_unreadCount": 0
+    "wa_unreadCount": 14
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "120363324913602723@g.us",
+    "chatlid": "",
     "content": {
-      "URL": "https://mmg.whatsapp.net/v/t62.15575-24/30771011_1562885458260730_6864475166522161295_n.enc?ccb=11-4&oh=01_Q5Aa3gFkdvoAdfm_QrC3dGEW0udYPQ2IsGcHGuOKlcRi6WN7PQ&oe=69A47C1F&_nc_sid=5e03e0&mms3=true",
+      "URL": "https://mmg.whatsapp.net/v/t62.15575-24/578957375_1259984899322102_139154634615749022_n.enc?ccb=11-4&oh=01_Q5Aa3gG-Hfuyepft1fORGVeJPqp9z375mxgIR-ilFOIH2Ucijg&oe=69A9AF0E&_nc_sid=5e03e0&mms3=true",
       "fileSHA256": "dItyisSh/GNmWzjwtWneNF+g6XF/RhxJGeCL/nDJgZM=",
-      "fileEncSHA256": "62b2wq8+Y2A5+iybxxP/ajqGue881UO/z+WcZZWDLOw=",
-      "mediaKey": "Czw91Hy7qrEXJpOtn0BEC3GI1Pkn66D7L3dLBtRRBTw=",
+      "fileEncSHA256": "9m13Qz6mF6Gde7ITqRds8KloQbFznWWkLJc8Qoi9sEo=",
+      "mediaKey": "gGOorvdNoR3bo0qdVYLDRMCZDzNITWh7sOElgWffgTo=",
       "mimetype": "image/webp",
       "height": 512,
       "width": 512,
-      "directPath": "/v/t62.15575-24/30771011_1562885458260730_6864475166522161295_n.enc?ccb=11-4&oh=01_Q5Aa3gFkdvoAdfm_QrC3dGEW0udYPQ2IsGcHGuOKlcRi6WN7PQ&oe=69A47C1F&_nc_sid=5e03e0",
+      "directPath": "/v/t62.15575-24/578957375_1259984899322102_139154634615749022_n.enc?ccb=11-4&oh=01_Q5Aa3gG-Hfuyepft1fORGVeJPqp9z375mxgIR-ilFOIH2Ucijg&oe=69A9AF0E&_nc_sid=5e03e0",
       "fileLength": 8126,
-      "mediaKeyTimestamp": 1769797692,
+      "mediaKeyTimestamp": 1770146782,
       "isAnimated": false,
       "contextInfo": {
         "expiration": 7776000,
@@ -88,7 +89,7 @@
           "trigger": 0
         }
       },
-      "stickerSentTS": 1769800381790,
+      "stickerSentTS": 1770148201106,
       "isAvatar": false,
       "isAiSticker": false,
       "isLottie": false
@@ -97,18 +98,18 @@
     "edited": "",
     "fromMe": true,
     "groupName": "Full Group Teste",
-    "id": "558185464605:ACEC7A3C45254AFE48F39CF2C865888A",
+    "id": "558185464605:AC958F7A3AFD13F36DE4EC988C85895A",
     "isGroup": true,
     "mediaType": "1p_sticker",
-    "messageTimestamp": 1769800382000,
+    "messageTimestamp": 1770148201000,
     "messageType": "StickerMessage",
-    "messageid": "ACEC7A3C45254AFE48F39CF2C865888A",
+    "messageid": "AC958F7A3AFD13F36DE4EC988C85895A",
     "owner": "558185464605",
     "quoted": "",
     "reaction": "",
-    "sender": "987654321098765@lid",
+    "sender": "249666952265850@lid",
     "senderName": "TitoTest",
-    "sender_lid": "987654321098765@lid",
+    "sender_lid": "249666952265850@lid",
     "sender_pn": "558185464605@s.whatsapp.net",
     "source": "android",
     "status": "",
@@ -122,4 +123,3 @@
   "owner": "558185464605",
   "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 }
-

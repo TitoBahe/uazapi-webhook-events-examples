@@ -56,31 +56,32 @@
     "wa_isGroup_member": true,
     "wa_isPinned": false,
     "wa_label": [],
-    "wa_lastMessageSender": "987654321098765@lid",
-    "wa_lastMessageTextVote": "Gsussj",
+    "wa_lastMessageSender": "249666952265850@lid",
+    "wa_lastMessageTextVote": "Test",
     "wa_lastMessageType": "PollCreationMessageV3",
-    "wa_lastMsgTimestamp": 1769800599000,
+    "wa_lastMsgTimestamp": 1770148241000,
     "wa_muteEndTime": 0,
     "wa_name": "Full Group Teste",
-    "wa_unreadCount": 0
+    "wa_unreadCount": 14
   },
   "chatSource": "updated",
-  "instanceName": "intanceTest",
+  "instanceName": "eKoB39",
   "message": {
     "buttonOrListid": "",
     "chatid": "120363324913602723@g.us",
+    "chatlid": "",
     "content": {
       "messageContextInfo": {
-        "messageSecret": "6sFMkFVyhvVTfd7FU3zeOL02xbVIEFycf5y+q7Tv9WE="
+        "messageSecret": "252wHBuCAVnHwpwwMNYNc7UJdOkS+kNFu5rX8Z7qxyE="
       },
       "pollCreationMessageV3": {
-        "name": "Gsussj",
+        "name": "Test",
         "options": [
           {
-            "optionName": "1"
+            "optionName": "Gahsu"
           },
           {
-            "optionName": "2"
+            "optionName": "Gsbsjs"
           }
         ],
         "selectableOptionsCount": 0,
@@ -93,26 +94,26 @@
         }
       }
     },
-    "convertOptions": "1|2",
+    "convertOptions": "Gahsu|Gsbsjs",
     "edited": "",
     "fromMe": true,
     "groupName": "Full Group Teste",
-    "id": "558185464605:AC829A2CDEB7D3AB643DD1677C7C0A35",
+    "id": "558185464605:AC30453549A03DC62B238391F54336BE",
     "isGroup": true,
     "mediaType": "",
-    "messageTimestamp": 1769800599000,
+    "messageTimestamp": 1770148241000,
     "messageType": "PollCreationMessageV3",
-    "messageid": "AC829A2CDEB7D3AB643DD1677C7C0A35",
+    "messageid": "AC30453549A03DC62B238391F54336BE",
     "owner": "558185464605",
     "quoted": "",
     "reaction": "",
-    "sender": "987654321098765@lid",
+    "sender": "249666952265850@lid",
     "senderName": "TitoTest",
-    "sender_lid": "987654321098765@lid",
+    "sender_lid": "249666952265850@lid",
     "sender_pn": "558185464605@s.whatsapp.net",
     "source": "android",
     "status": "",
-    "text": "Gsussj",
+    "text": "Test",
     "track_id": "",
     "track_source": "",
     "type": "poll",
@@ -120,5 +121,5 @@
     "wasSentByApi": false
   },
   "owner": "558185464605",
-  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  "token": "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" 
 }
