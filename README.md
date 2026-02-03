@@ -32,7 +32,7 @@ Cada pasta contém exemplos de diferentes tipos de mensagens:
 - `image.sent.json` - Imagem
 - `location.sent.json` - Localização
 - `poll.sent.json` - Enquete criada
-- `poll.vote.me.json` - Voto na enquete pela pessoa que criou a enquete
+- `poll.vote.me.json` - Voto na enquete pela pessoa conectada a instância
 - `poll.vote.other.json` - Voto na enquete por outra pessoa (número diferente)
 - `reaction.sent.json` - Reação a uma mensagem
 - `sticker.sent.json` - Sticker
