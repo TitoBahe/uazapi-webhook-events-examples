@@ -43,7 +43,7 @@ Cada pasta contém exemplos de diferentes tipos de mensagens:
 ## Sobre Polls (Enquetes)
 
 ### `poll.vote.me.json`
-Este evento é disparado quando a **pessoa que criou a enquete** vota nela. Isso acontece independentemente de ser o mesmo número conectado à instância ou não. Ou seja, se você criou uma enquete e depois votou nela, este evento será disparado.
+Este evento é disparado quando a **pessoa conectada a instância** vota nela. Isso acontece independentemente de ser o mesmo número conectado à instância ou não. Ou seja, se você criou uma enquete e depois votou nela, este evento será disparado.
 
 ### `poll.vote.other.json`
 Este evento é disparado quando **outra pessoa com um número diferente** vota na enquete. Apenas votos de outros participantes (não o criador da enquete) geram este tipo de evento.
