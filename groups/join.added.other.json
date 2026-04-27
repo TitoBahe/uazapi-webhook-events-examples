@@ -1,0 +1,42 @@
+{
+  "BaseUrl": "https://xxxxx.uazapi.com",
+  "EventType": "groups",
+  "event": {
+    "JID": "120363423611502898@g.us",
+    "Notify": "Fullzapp Teste - 1",
+    "Sender": "558184522492@s.whatsapp.net",
+    "SenderPN": "558184522492@s.whatsapp.net",
+    "Timestamp": "2026-04-27T16:45:47Z",
+    "Name": null,
+    "Topic": null,
+    "Locked": null,
+    "Announce": null,
+    "Ephemeral": null,
+    "MembershipApprovalMode": null,
+    "Delete": null,
+    "Link": null,
+    "Unlink": null,
+    "NewInviteLink": null,
+    "PrevParticipantVersionID": "1777308333242541",
+    "ParticipantVersionID": "1777308346915212",
+    "JoinReason": "",
+    "Suspended": false,
+    "Unsuspended": false,
+    "UnknownChanges": null,
+    "Join": [
+      "558185464605@s.whatsapp.net"
+    ],
+    "Leave": null,
+    "Promote": null,
+    "Demote": null,
+    "JoinLid": [
+      "249666952265850@lid"
+    ],
+    "sender_pn": "558184522492@s.whatsapp.net",
+    "sender_lid": "134596507267180@lid"
+  },
+  "instanceName": "VV0uYO",
+  "owner": "558184522492",
+  "token": "xxxxx",
+  "type": "Group"
+}
