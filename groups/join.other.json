@@ -1,0 +1,40 @@
+{
+  "BaseUrl": "https://xxxxxxx.uazapi.com",
+  "EventType": "groups",
+  "event": {
+    "JID": "120363423611502898@g.us",
+    "Notify": "invite",
+    "Sender": null,
+    "SenderPN": null,
+    "Timestamp": "2026-04-27T16:30:48Z",
+    "Name": null,
+    "Topic": null,
+    "Locked": null,
+    "Announce": null,
+    "Ephemeral": null,
+    "MembershipApprovalMode": null,
+    "Delete": null,
+    "Link": null,
+    "Unlink": null,
+    "NewInviteLink": null,
+    "PrevParticipantVersionID": "1777307342356586",
+    "ParticipantVersionID": "1777307448355011",
+    "JoinReason": "invite",
+    "Suspended": false,
+    "Unsuspended": false,
+    "UnknownChanges": null,
+    "Join": [
+      "558185464605@s.whatsapp.net"
+    ],
+    "Leave": null,
+    "Promote": null,
+    "Demote": null,
+    "JoinLid": [
+      "249666952265850@lid"
+    ]
+  },
+  "instanceName": "VV0uYO",
+  "owner": "558184522492",
+  "token": "xxxxxx",
+  "type": "Group"
+}

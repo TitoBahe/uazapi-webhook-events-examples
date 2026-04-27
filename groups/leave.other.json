@@ -1,0 +1,42 @@
+{
+  "BaseUrl": "https://xxxxxx.uazapi.com",
+  "EventType": "groups",
+  "event": {
+    "JID": "120363423611502898@g.us",
+    "Notify": "Tito Bahe",
+    "Sender": "558185464605@s.whatsapp.net",
+    "SenderPN": "558185464605@s.whatsapp.net",
+    "Timestamp": "2026-04-27T16:29:02Z",
+    "Name": null,
+    "Topic": null,
+    "Locked": null,
+    "Announce": null,
+    "Ephemeral": null,
+    "MembershipApprovalMode": null,
+    "Delete": null,
+    "Link": null,
+    "Unlink": null,
+    "NewInviteLink": null,
+    "PrevParticipantVersionID": "1776281219015975",
+    "ParticipantVersionID": "1777307342356586",
+    "JoinReason": "",
+    "Suspended": false,
+    "Unsuspended": false,
+    "UnknownChanges": null,
+    "Join": null,
+    "Leave": [
+      "558185464605@s.whatsapp.net"
+    ],
+    "Promote": null,
+    "Demote": null,
+    "LeaveLid": [
+      "249666952265850@lid"
+    ],
+    "sender_pn": "558185464605@s.whatsapp.net",
+    "sender_lid": "249666952265850@lid"
+  },
+  "instanceName": "VV0uYO",
+  "owner": "558184522492",
+  "token": "xxxxxxxxx",
+  "type": "Group"
+}
